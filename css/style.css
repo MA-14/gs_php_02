@@ -1,0 +1,61 @@
+.title{
+  margin-bottom: 10px;
+}
+
+.titlemessage{
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.form{
+  border:1px solid #fff;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px 10px 50px ;
+}
+
+.vote_all{
+  display: flex;
+  margin-top: 0px;
+}
+
+.vote_title{
+  font-weight: bold;
+}
+
+.commentall{
+  margin-bottom: 10px;
+}
+
+.comment{
+  width: 33%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  background: #17263f;
+}
+
+.allcharts{
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.chart_wrapper{
+  width:33%;
+  text-align: center;
+  padding: 0 auto;
+}
+
+.figures{
+  margin: 0 auto;
+}
+
+form{
+  margin-bottom: 0px;
+}
+
+.pred_seni{
+  color: #fff;
+}
